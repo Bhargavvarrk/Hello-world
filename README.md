@@ -1,6 +1,4 @@
-# Hello-world
-I m Bhargav varrk 
-And 
-Need to accomplish
-Xtra
-Intra
+# Hello-world#
+# I m Bhargav varrk #
+# want rice#
+#git web#
